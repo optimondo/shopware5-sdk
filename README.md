@@ -59,7 +59,7 @@ composer require optimondo/shopware5-sdk
     
     // Merge them together
     $article->setMainDetail($articleDetails);
-	$article->setAttributes($articleAttributes);
+    $article->setAttributes($articleAttributes);
     
     // Update multiple articles
     $articleOne = $client->getArticleQuery()->findOne(1);
@@ -100,9 +100,6 @@ composer require optimondo/shopware5-sdk
             ]
         ]
     ]);
-    
-    // Add own attributes
-    $article->setNew("John product doe");
 ```
 
 ## Issues/Features proposals
