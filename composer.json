@@ -8,21 +8,11 @@
             "email": "ds@optimondo.de"
         }
     ],
-	"version": "dev-bugfix",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
-    },
+	"version": "2.1.0",
     "require": {
         "php" : ">=7.0",
         "guzzlehttp/guzzle": "^6.2",
-        "netresearch/jsonmapper": "~1.4.0",
-        "ext-json": "*"
-    },
-    "require-dev": {
-        "satooshi/php-coveralls": "~1.0.0",
-        "phpunit/phpunit": "~4.8.21"
+        "netresearch/jsonmapper": "~1.4.0"
     },
     "autoload": {
         "psr-0": {

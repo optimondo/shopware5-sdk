@@ -6,8 +6,8 @@
  * Projekt:                   shopware5-sdk
  *
  * erstellt von:              Daniel Siekiera <ds@optimondo.de>
- * erstellt am:	              16.05.22, 13:04 Uhr
- * zu letzt bearbeitet:       13.05.22, 15:08 Uhr
+ * erstellt am:	              18.05.22, 11:18 Uhr
+ * zu letzt bearbeitet:       16.05.22, 14:36 Uhr
  *
  * Copyright © 2022 - Optimondo GmbH
  *
