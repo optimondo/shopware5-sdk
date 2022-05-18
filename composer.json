@@ -11,8 +11,8 @@
 	"version": "2.1.0",
     "require": {
         "php" : ">=7.0",
-        "guzzlehttp/guzzle": "^6.2",
-        "netresearch/jsonmapper": "~1.4.0"
+        "guzzlehttp/guzzle": "*",
+        "netresearch/jsonmapper": "*"
     },
     "autoload": {
         "psr-0": {
